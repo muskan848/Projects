@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+i{
+  cursor: pointer;
+}
+
+section{
+  /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDnwbFtmxUTa8V42nvFNNbyh1xHDkD_X3mi99iEOLl4z_wm9kEgmdQ8ZSuxh4Cu-ZKqY&usqp=CAU'); */
+ background-image: url('https://img.freepik.com/free-vector/white-background-with-3d-hexagonal-pattern-design_1017-28443.jpg?size=626&ext=jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+
+}
+#bg{
+  background-image: url('../img.jpg');
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-repeat: no-repeat;
+  background-size:cover;
+
+}
+
+#home
+{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
